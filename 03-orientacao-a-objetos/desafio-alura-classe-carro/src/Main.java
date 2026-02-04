@@ -1,4 +1,4 @@
-import br.com.lucascontieri.classe.carro.models.ModeloCarro;
+import br.com.contieri.classe.carro.models.ModeloCarro;
 
 public class Main {
     public static void main(String[] args) {
